@@ -1,9 +1,7 @@
 # Hi there, I'm Zeun! 👋
 
-### 🛠 System Developer | ERP Specialist
+> **10+ Years of Experience | ERP System Specialist**
 
-- 🔭 현재 ERP 시스템 고도화 및 안정화를 담당하고 있습니다.
-- 💬 효율적인 비즈니스 솔루션 설계에 관심이 많습니다.
-
-### 📊 GitHub Stats
-![Zeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeun-dev&show_icons=true&theme=radical)
+- 💻 **Optimizing and stabilizing ERP systems.**
+- 🚀 **Passionate about designing efficient business solutions.**
+- 🎨 **Learning 'Vibe Coding' to collaborate with AI.**
